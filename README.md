@@ -6,7 +6,7 @@ This is a very basic app with the exact stack and setup utilized by Smooth Solut
 
 This challenge should be completed within 2 - 5 hours. Please do not spend any more time than this.
 
-1. Complete the GraphQL Query to search for 151 Pokemon.
+1. Complete the GraphQL Query and call the Query to search for 151 Pokemon.
 2. Display the results from the query.
 3. Allow users to save a Pokemon to their Pokedex in Redux State.
 4. Pokemon in their Pokedex should be able to be removed from the Redux State.
@@ -22,6 +22,8 @@ This challenge should be completed within 2 - 5 hours. Please do not spend any m
 ## Things to Note
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Pokemon GraphQL API Reference https://wayfair.github.io/dociql/
 
 Please only use Functional Components and Hooks to complete this challenge.
 
